@@ -2,3 +2,5 @@
 小红书asr模型的训练代码
 
 基于ms-swift实现的，放在example目录下即可，模型需要自己将lora参数merge得到LLM上
+
+后续会在这个基础上添加热词、context等
